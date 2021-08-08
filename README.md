@@ -1,5 +1,8 @@
 ### Hi there 👋
+I am a second year undergraduate at Columbia University (Columbia College), where I plan to pursue a B.A. in Mathematics and Computer Science. 
 
+
+https://github-readme-stats.vercel.app/api?username=cyoon1729&show_icons=true&theme=radical)
 <!--
 **cyoon1729/cyoon1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
