@@ -1,5 +1,8 @@
 ### Hi there 👋
-I am a second year undergraduate at Columbia University (Columbia College), where I plan to pursue a B.A. in Mathematics and Computer Science. 
+I am a second year undergraduate at Columbia University (Columbia College), where I plan to pursue a B.A. in Mathematics and Computer Science. Currently, I am interested in systems software, especially in distributed architectures/computing, and systems-for-ML.
+
+My previous experiences are in distributed reinforcement learning (at Stony Brook University and at a medical-tech startup), geometric deep learning for protein structure prediction (at Columbia), and image processing engines and APIs for counterfeit detection service (at a legal-tech startup).
+
 
 
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyoon1729&show_icons=true&theme=radical)
