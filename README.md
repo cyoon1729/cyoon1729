@@ -9,4 +9,5 @@ Here's a rough timeline of my experiences, in reverse chronological order:
 - 2020 May - Aug     : _ML Engineer Intern_ at **Medipixel** (based in South Korea), worked on **distributed reinforcement learning**.
 - 2019 May - Aug     : _Student Researcer_ at **Stony Brook University** (Under Prof. Ji Liu and the Simons Foundation), worked on **distributed reinforcement learning**.
 
+## Github Stats
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyoon1729&show_icons=true&theme=radical)
