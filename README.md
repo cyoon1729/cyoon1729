@@ -2,7 +2,7 @@
 I am a second year undergraduate at Columbia University (Class of 2024), where I plan to pursue a B.A. in Computer Science! I started college as a prospective math major, completing coursework in abstract algebra, real analysis, topology, and number theory. However, my experiences in software/ML engineering eventually sealed my fate as a CS student! *I am particularly passionate about **software systems**, with a bent towards **distributed architecure/computing** and **ML infrastructure**.*
 
 Here's a rough timeline of my experiences, in reverse chronological order:
-- _2022 May - Aug*_     : _Software Engineer Intern_ at **Riot Games**, Live Operations Engineering Team.
+- _2022 May - Aug_     : _Incoming Software Engineer Intern_ at **Riot Games**, Live Operations Engineering Team.
 - _2021 Sep - Present_  : _Undergrad Researcher_ at under Prof. Junfeng Yang **(Columbia)**, working on **debugging tools for Tensorflow 2**.
 - _2021 May - Nov_      : _Software Enginner_ at **Faikerz** (based in South Korea), worked on **counterfeit product detection and clustering** for E-commerce sites.
 - _2021 Jan - Aug_      : _Undergrad Researcher_ at the **AlQuraishi Lab (Columbia)**, worked on **geometric deep learning on protein structure**.
