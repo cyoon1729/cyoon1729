@@ -3,7 +3,7 @@ I am a second year undergraduate at Columbia University (Class of 2024), where I
 
 Here's a rough timeline of my experiences, in reverse chronological order:
 - _2022 May - Aug_     : _Incoming Software Engineer Intern_ at **Riot Games**, Live Operations Engineering Team.
-- _2021 Sep - Present_  : _Undergrad Researcher_ at under Prof. Junfeng Yang **(Columbia)**, working on **debugging tools for Tensorflow 2**.
+- _2021 Sep - Present_  : _Undergrad Researcher_ under Prof. Junfeng Yang **(Columbia)**, working on **debugging tools for Tensorflow 2**.
 - _2021 May - Nov_      : _Software Enginner_ at **Faikerz** (based in South Korea), worked on **counterfeit product detection and clustering** for E-commerce sites.
 - _2021 Jan - Aug_      : _Undergrad Researcher_ at the **AlQuraishi Lab (Columbia)**, worked on **geometric deep learning on protein structure**.
 - _2020 May - Aug _     : _ML Engineer Intern_ at **Medipixel** (based in South Korea), worked on **distributed reinforcement learning**.
