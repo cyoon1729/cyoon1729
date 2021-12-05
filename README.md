@@ -7,7 +7,7 @@ Here's a rough timeline of my experiences, in reverse chronological order:
 - _2021 May - Nov_      : _Software Enginner_ at **Faikerz** (based in South Korea), worked on **counterfeit product detection and clustering** for E-commerce sites.
 - _2021 Jan - Aug_      : _Undergrad Researcher_ at the **AlQuraishi Lab (Columbia)**, worked on **geometric deep learning on protein structure**.
 - _2020 May - Aug_     : _ML Engineer Intern_ at **Medipixel** (based in South Korea), worked on **distributed reinforcement learning**.
-- _2019 May - Aug_     : _Student Researhcer_ at **Stony Brook University** (Under Prof. Ji Liu and the Simons Foundation), worked on **distributed reinforcement learning**.
+- _2019 May - Aug_     : _Student Researcher_ at **Stony Brook University** (Under Prof. Ji Liu and the Simons Foundation), worked on **distributed reinforcement learning**.
 
 ## My Tech Stack
 <div align="center">  
