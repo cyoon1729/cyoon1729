@@ -10,16 +10,22 @@ Here's a rough timeline of my experiences, in reverse chronological order:
 - _2019 May - Aug_     : _Student Researcher_ at **Stony Brook University** (Under Prof. Ji Liu and the Simons Foundation), worked on **distributed reinforcement learning**.
 
 ## My Tech Stack
+### Languages:
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
+</div>
+(Python, Haskell, Scala, Go)
+
+### Machine Learning / Deep Learning:
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
 </div>
-
-(Python, Haskell, Scala, C, Tensorflow, PyTorch)
+(Python, Tensorflow, PyTorch)
 
 ## Github Stats
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyoon1729&show_icons=true&theme=radical)
