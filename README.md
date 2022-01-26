@@ -29,3 +29,5 @@ Here's a rough timeline of my experiences, in reverse chronological order:
 
 ## Github Stats
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyoon1729&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyoon1729&hide=html,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
