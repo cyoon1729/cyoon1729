@@ -14,7 +14,7 @@ Here's a rough timeline of my experiences, in reverse chronological order:
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />&emsp; 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" />&emsp; 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.png" alt="C" height="50" />&emsp; 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />&emsp; 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" />&emsp;
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />&emsp;  
 </div>
@@ -30,5 +30,4 @@ Here's a rough timeline of my experiences, in reverse chronological order:
 
 ## Github Stats
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyoon1729&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyoon1729&hide=html,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
