@@ -1,5 +1,14 @@
 ### Hi there 👋
-I am a second year undergraduate at Columbia University (Class of 2024), where I plan to study Computer Science! I started college as a prospective math major, completing coursework in abstract algebra, real analysis, topology, and number theory. However, my experiences in software/ML engineering eventually sealed my fate as a CS student! *I am especially passionate about **software systems**, with a bent towards **distributed architectures/computing** and **ML infrastructure**.*
+Hi! My name is Chris Yoon, and I am a 2nd year undergraduate at Columbia University studying Computer Science! I am particularly passionate in **distributed systems** and **machine learning systems & infra.** 
+
+**I am looking for software engineering opportunities for Fall 2022.** I also do research at Columbia University, where I’ve been building software systems for debugging behavior of data-points in large-scale ML training.
+
+Here's are some courses I've taken while at Columbia:
+| | | |
+| --- | --- | --- |
+| Operating Systems | Database Systems | Parallel Functional Programming  |
+| Artificial Intelligence | Real Analysis | Abstract Algebra I & II |
+| Topology Reading | Number Theory and Cryptography | |
 
 Here's a rough timeline of my experiences, in reverse chronological order:
 - _2022 May - Aug_     : _Incoming Software Engineer Intern_ at **Riot Games**, Live Operations Engineering Team.
