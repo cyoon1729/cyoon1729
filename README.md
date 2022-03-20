@@ -3,7 +3,7 @@ Hi! My name is Chris Yoon, and I am a 2nd year undergraduate at Columbia Univers
 
 **I am looking for software engineering opportunities for Fall 2022.** I also do research at Columbia University, where I’ve been building software systems for debugging behavior of data-points in large-scale ML training.
 
-Here's are some courses I've taken while at Columbia:
+Here are some courses I've taken while at Columbia:
 | | | |
 | --- | --- | --- |
 | Operating Systems | Database Systems | Parallel Functional Programming  |
