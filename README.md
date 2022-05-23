@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hi! My name is Chris Yoon, and I am a 2nd year undergraduate at Columbia University studying Computer Science! I am particularly passionate about **distributed systems** and **machine learning systems & infrastructure.** 
 
-**I am looking for software engineering opportunities for Fall 2022.** I also do research at Columbia University, where I’ve been building software systems for debugging behavior of data-points in large-scale ML training.
+I also do research at Columbia University, where I’ve been building software systems for debugging behavior of data-points in large-scale ML training.
 
 Here are some courses I've taken while at Columbia:
 | | | |
@@ -11,7 +11,7 @@ Here are some courses I've taken while at Columbia:
 | Topology Reading | Number Theory and Cryptography | |
 
 Here's a rough timeline of my experiences, in reverse chronological order:
-- _2022 May - Aug_     : _Incoming Software Engineer Intern_ at **Riot Games**, Live Operations Engineering Team.
+- _2022 May - Aug_     : _Software Engineer Intern_ at **Riot Games**, Live Operations Engineering Team.
 - _2021 Sep - Present_  : _Undergrad Researcher_ under Prof. Junfeng Yang **(Columbia)**, working on **debugging tools for Tensorflow 2**.
 - _2021 May - Nov_      : _Software Enginner_ at **Faikerz** (based in South Korea), worked on **counterfeit product detection and clustering** for E-commerce sites.
 - _2021 Jan - Aug_      : _Undergrad Researcher_ at the **AlQuraishi Lab (Columbia)**, worked on **geometric deep learning for protein structure informatics**.
