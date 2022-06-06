@@ -25,7 +25,6 @@ Python, Haskell, C, Elixir, Go, Typescript
 ### Frameworks / Other Technologies:
 React, Tensorflow, PyTorch, SQL, Postgres
 
-(Python, Tensorflow, PyTorch)
 
 ## Github Stats
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyoon1729&show_icons=true&theme=radical)
