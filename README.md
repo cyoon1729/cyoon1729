@@ -11,7 +11,7 @@ Here are some courses I've taken while at Columbia:
 | Topology Reading | Number Theory and Cryptography | |
 
 Here's a rough timeline of my experiences, in reverse chronological order:
-- _2022 May - Aug_     : _Software Engineer Intern_ at **Riot Games**, Live Operations Engineering Team.
+- _2022 May - Aug_     : _Software Engineer Intern_ at **Riot Games**, Live Operations Engineering / Incident Management Team.
 - _2021 Sep - Present_  : _Undergrad Researcher_ under Prof. Junfeng Yang **(Columbia)**, working on **debugging tools for Tensorflow 2**.
 - _2021 May - Nov_      : _Software Enginner_ at **Faikerz** (based in South Korea), worked on **counterfeit product detection and clustering** for E-commerce sites.
 - _2021 Jan - Aug_      : _Undergrad Researcher_ at the **AlQuraishi Lab (Columbia)**, worked on **geometric deep learning for protein structure informatics**.
@@ -20,21 +20,11 @@ Here's a rough timeline of my experiences, in reverse chronological order:
 
 ## My Tech Stack
 ### Languages:
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />&emsp; 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" />&emsp; 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />&emsp; 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" />&emsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />&emsp;  
-</div>
-(Python, Haskell, C, Scala, Go)
+Python, Haskell, C, Elixir, Go, Typescript
 
-### Machine Learning / Deep Learning:
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />&emsp;  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />&emsp;  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />&emsp;  
-</div>
+### Frameworks / Other Technologies:
+React, Tensorflow, PyTorch, SQL, Postgres
+
 (Python, Tensorflow, PyTorch)
 
 ## Github Stats
