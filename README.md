@@ -11,6 +11,7 @@ Here are some courses I've taken while at Columbia:
 | Topology Reading | Number Theory and Cryptography | |
 
 Here's a rough timeline of my experiences, in reverse chronological order:
+- _2023 May - Aug_     : Joining Virtu Financial as a Software Engineer Intern
 - _2022 May - Aug_     : _Software Engineer Intern_ at **Riot Games**, Live Operations Engineering / Incident Management Team.
 - _2021 Sep - Present_  : _Undergrad Researcher_ under Prof. Junfeng Yang **(Columbia)**, working on **debugging tools for Tensorflow 2**.
 - _2021 May - Nov_      : _Software Enginner_ at **Faikerz** (based in South Korea), worked on **counterfeit product detection and clustering** for E-commerce sites.
