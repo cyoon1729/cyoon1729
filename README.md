@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi! My name is Chris Yoon, and I am a 2nd year undergraduate at Columbia University studying Computer Science! I am particularly passionate about **distributed systems** and **machine learning systems & infrastructure.** 
+Hi! My name is Chris Yoon, and I am a 3rd year undergraduate at Columbia University studying Computer Science! I am particularly passionate about software systems.
 
 I also do research at Columbia University, where I’ve been building software systems for debugging behavior of data-points in large-scale ML training.
 
