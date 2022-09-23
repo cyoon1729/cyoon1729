@@ -5,4 +5,4 @@ Previously, I was at Riot Games as a Software Engineer Intern, building tools ar
 
 Next summer, I will be joining Virtu Financial (a high frequency trading firm) as a Software Engineer Intern; after that, I will be joining Palantir in their New York office for Fall '23!
 
-You can find my resume here: [chrisyoon.xyz](chrisyoon.xyz)
+You can find my resume here: [chrisyoon.xyz](https://chrisyoon.xyz)
